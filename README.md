@@ -4,7 +4,7 @@ This repository contains supporting materials for the paper:
 
 **“The Paradox Validation Protocol: A Transparency Framework for Arrow's Impossibility Theorem”**
 
-📄 [SSRN Preprint Link]([https://ssrn.com/abstract/xxxxxxx](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5361685#paper-references-widget)) *(add after submission)*
+📄 (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5361685#paper-references-widget)) *(add after submission)*
 
 ---
 
